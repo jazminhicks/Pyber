@@ -1,0 +1,121 @@
+,city,driver_count,fare,ride_id,type,Colors
+0,Amandaburgh,12.0,24.641666666666666,18,Urban,coral
+1,Barajasview,26.0,25.332272727272724,22,Urban,coral
+2,Barronchester,11.0,36.42249999999999,16,Suburban,skyblue
+3,Bethanyland,22.0,32.95611111111112,18,Suburban,skyblue
+4,Bradshawfurt,7.0,40.064,10,Rural,gold
+5,Brandonfort,10.0,35.43736842105263,19,Suburban,skyblue
+6,Carriemouth,52.0,28.314444444444437,27,Urban,coral
+7,Christopherfurt,41.0,24.50185185185185,27,Urban,coral
+8,Colemanland,23.0,30.89454545454545,22,Suburban,skyblue
+9,Davidfurt,23.0,31.99588235294118,17,Suburban,skyblue
+10,Deanville,49.0,25.842631578947366,19,Urban,coral
+11,East Aaronbury,7.0,25.66111111111111,9,Suburban,skyblue
+12,East Danielview,22.0,31.560588235294116,17,Suburban,skyblue
+13,East Kaylahaven,65.0,23.75793103448276,29,Urban,coral
+14,East Kentstad,20.0,29.82307692307692,13,Suburban,skyblue
+15,East Marymouth,5.0,30.835185185185182,27,Suburban,skyblue
+16,Erikaland,37.0,24.906666666666666,12,Urban,coral
+17,Garzaport,7.0,24.123333333333335,3,Rural,gold
+18,Grahamburgh,61.0,25.2212,25,Urban,coral
+19,Grayville,2.0,27.76333333333333,15,Suburban,skyblue
+20,Harringtonfort,4.0,33.47,6,Rural,gold
+21,Huntermouth,37.0,28.993749999999995,24,Urban,coral
+22,Hurleymouth,36.0,25.89142857142857,28,Urban,coral
+23,Jerryton,64.0,25.649200000000004,25,Urban,coral
+24,Jessicaport,1.0,36.01333333333333,6,Rural,gold
+25,Johnton,27.0,26.78571428571428,21,Urban,coral
+26,Joneschester,39.0,22.2896,25,Urban,coral
+27,Josephside,25.0,32.85814814814815,27,Suburban,skyblue
+28,Justinberg,39.0,23.694333333333322,30,Urban,coral
+29,Karenberg,22.0,26.340000000000003,17,Urban,coral
+30,Karenside,5.0,27.453571428571433,28,Urban,coral
+31,Lake Ann,3.0,30.89,12,Suburban,skyblue
+32,Lake Danielberg,19.0,24.84423076923077,26,Urban,coral
+33,Lake Jamie,4.0,34.358333333333334,6,Rural,gold
+34,Lake Jonathanshire,5.0,23.425833333333333,24,Urban,coral
+35,Lake Latoyabury,2.0,26.061818181818182,11,Rural,gold
+36,Lake Omar,22.0,28.074999999999996,14,Suburban,skyblue
+37,Lake Robertside,4.0,31.261999999999997,25,Suburban,skyblue
+38,Lake Scott,23.0,31.886111111111113,18,Suburban,skyblue
+39,Lake Scottton,58.0,23.809166666666666,24,Urban,coral
+40,Leahton,17.0,21.243809523809524,21,Urban,coral
+41,Lewishaven,23.0,25.241666666666664,12,Suburban,skyblue
+42,Lewisland,4.0,34.61411764705882,17,Suburban,skyblue
+43,Liumouth,69.0,26.149999999999995,33,Urban,coral
+44,Loganberg,23.0,25.2925,28,Urban,coral
+45,Martinezhaven,25.0,22.65125,24,Urban,coral
+46,Mezachester,14.0,30.759999999999998,17,Suburban,skyblue
+47,Michaelberg,6.0,34.99750000000001,12,Rural,gold
+48,Myersshire,19.0,30.203125,16,Suburban,skyblue
+49,New Jacobville,50.0,26.765555555555558,18,Urban,coral
+50,New Kimberlyborough,33.0,22.589000000000002,30,Urban,coral
+51,New Olivia,20.0,34.054117647058824,17,Suburban,skyblue
+52,New Paulton,44.0,27.820000000000004,19,Urban,coral
+53,New Paulville,44.0,21.67590909090909,22,Urban,coral
+54,New Raymond,17.0,27.96181818181818,22,Suburban,skyblue
+55,New Ryantown,2.0,43.278333333333336,6,Rural,gold
+56,New Shannonberg,20.0,28.37823529411765,17,Suburban,skyblue
+57,Newtonview,1.0,36.745000000000005,4,Rural,gold
+58,Nicolechester,19.0,30.909473684210518,19,Suburban,skyblue
+59,North Barbara,18.0,23.49409090909091,22,Urban,coral
+60,North Holly,8.0,29.130000000000003,9,Rural,gold
+61,North Jaime,1.0,30.802500000000002,8,Rural,gold
+62,North Jasmine,33.0,25.20533333333333,30,Urban,coral
+63,North Jason,6.0,22.743714285714287,35,Urban,coral
+64,North Jeffrey,11.0,29.242307692307698,13,Suburban,skyblue
+65,North Madeline,19.0,22.623599999999996,25,Urban,coral
+66,North Markport,22.0,27.504285714285718,14,Urban,coral
+67,North Richardhaven,1.0,24.70428571428571,14,Suburban,skyblue
+68,North Timothy,7.0,31.262000000000004,15,Suburban,skyblue
+69,Pattyland,59.0,23.98047619047619,21,Urban,coral
+70,Penaborough,6.0,35.246,5,Rural,gold
+71,Port Angela,67.0,23.836842105263155,19,Urban,coral
+72,Port David,7.0,25.854999999999997,22,Urban,coral
+73,Port Frank,23.0,27.201515151515153,33,Urban,coral
+74,Port Johnbury,3.0,23.006363636363638,22,Urban,coral
+75,Port Samanthamouth,57.0,25.64280000000001,25,Urban,coral
+76,Port Shane,7.0,31.077894736842108,19,Suburban,skyblue
+77,Randallchester,9.0,29.741999999999997,5,Rural,gold
+78,Raymondhaven,11.0,21.4804,25,Urban,coral
+79,Reynoldsfurt,67.0,21.919473684210526,19,Urban,coral
+80,Richardfort,38.0,22.373214285714287,28,Urban,coral
+81,Roberthaven,47.0,23.72916666666666,24,Urban,coral
+82,Robertport,12.0,23.0605,20,Urban,coral
+83,Rodneyfort,34.0,28.616956521739127,23,Urban,coral
+84,Rodriguezview,20.0,30.745333333333335,15,Suburban,skyblue
+85,Rogerston,25.0,22.097727272727273,22,Urban,coral
+86,Royland,64.0,20.570666666666668,30,Urban,coral
+87,Simpsonburgh,21.0,23.355833333333337,24,Urban,coral
+88,Sotoville,10.0,31.979999999999997,11,Suburban,skyblue
+89,South Brenda,1.0,33.96458333333334,24,Suburban,skyblue
+90,South Evanton,11.0,26.72612903225806,31,Urban,coral
+91,South Jack,46.0,22.965263157894736,19,Urban,coral
+92,South Jennifer,7.0,35.26428571428572,7,Rural,gold
+93,South Karenland,4.0,26.535526315789475,38,Urban,coral
+94,South Latoya,10.0,20.093157894736848,19,Urban,coral
+95,South Marychester,1.0,41.870000000000005,8,Rural,gold
+96,South Michelleport,72.0,24.451612903225808,31,Urban,coral
+97,South Phillip,38.0,28.57129032258064,31,Urban,coral
+98,South Saramouth,7.0,36.16,4,Rural,gold
+99,South Teresa,21.0,31.22045454545454,22,Suburban,skyblue
+100,Taylorhaven,1.0,42.26333333333333,6,Rural,gold
+101,Valentineton,45.0,24.636363636363637,22,Urban,coral
+102,Veronicaberg,20.0,32.82823529411765,17,Suburban,skyblue
+103,Victoriaport,16.0,27.780000000000005,14,Suburban,skyblue
+104,West Angela,48.0,25.990000000000002,39,Urban,coral
+105,West Anthony,70.0,24.736666666666665,30,Urban,coral
+106,West Christopherberg,32.0,24.421153846153842,26,Urban,coral
+107,West Ericstad,25.0,22.34722222222222,18,Urban,coral
+108,West Gabriel,57.0,20.34608695652174,23,Urban,coral
+109,West Hannah,12.0,29.547619047619055,21,Suburban,skyblue
+110,West Heather,4.0,33.89,9,Rural,gold
+111,West Heidi,28.0,23.133928571428573,28,Urban,coral
+112,West Josephberg,45.0,21.72038461538461,26,Urban,coral
+113,West Kimmouth,4.0,29.871500000000005,20,Suburban,skyblue
+114,West Patrickchester,25.0,28.233124999999994,16,Urban,coral
+115,West Robert,39.0,25.123870967741937,31,Urban,coral
+116,West Samuelburgh,73.0,21.7676,25,Urban,coral
+117,Williamsonville,2.0,31.874999999999996,14,Suburban,skyblue
+118,Williamsstad,59.0,24.36217391304348,23,Urban,coral
+119,Williamsview,46.0,26.599,20,Urban,coral
