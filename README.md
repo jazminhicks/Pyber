@@ -38,6 +38,6 @@ In addition, you will be expected to produce the following three pie charts:
 
 * There is a negative correlation in the number of rides provided in a city and the average fare. More rides are provided in urban cities and the average fare is also lowest in comparison to rural or suburan areas. 
 
-* Similarly, the most drivers can be found in urban cities and make up nearly 81% of all drivers in the area. We should take into consideration that the lower average fare in urban cities may partially be a result of more driver availability compared to that of rural cities. 
+* Similarly, the most drivers can be found in urban cities and make up nearly 81% of all drivers in the observed area. We should also take into consideration that the lower average fare in urban cities may partially be a result of more driver availability compared to that of rural cities. 
 
 * There may be potential opportunity to expand the market in the suburban area. Currently the number of rides exceeds the number of available drivers by about 10%. Adding more drivers to this area may allow prices to be driven down some, making riding in the area more affordable and potentially drive up total revenue. 
