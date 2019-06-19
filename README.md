@@ -40,4 +40,4 @@ In addition, you will be expected to produce the following three pie charts:
 
 * Similarly, the most drivers can be found in urban cities and make up nearly 81% of all drivers in the observed area. We should also take into consideration that the lower average fare in urban cities may partially be a result of more driver availability compared to that of rural cities. 
 
-* There may be potential opportunity to expand the market in the suburban area. Currently the number of rides exceeds the number of available drivers by about 10%. Adding more drivers to this area may allow prices to be driven down some, making riding in the area more affordable and potentially drive up total revenue. 
+* There may be potential opportunity to expand the market in the suburban area. Currently the number of rides exceeds the number of available drivers by about 10%. Adding more drivers to this area may allow prices to be driven down slightly, making riding in the area more affordable and potentially drive up total revenue. 
